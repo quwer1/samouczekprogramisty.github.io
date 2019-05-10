@@ -17,7 +17,7 @@ disqus_page_identifier: 754 http://www.samouczekprogramisty.pl/?p=754
 
 XML (ang. _Extensible Markup Language_) to specyfikacja zapisu danych, która została opracowana w 1998 roku przez W3C (ang. _World Wide Web Consortium_). Jest to format tekstowy, który pozwana na zapisywanie danych w postaci, która jest łatwa do odczytu zarówno przez maszyny jak i przez ludzi[^czytelnosc].
 
-[^czytelnosc]: Moim zdaniem skomplikowane pliki XML w cale nie są czytelne dla ludzi, ale to już temat na osobną dyskusję ;).
+[^czytelnosc]: Moim zdaniem skomplikowane pliki XML wcale nie są czytelne dla ludzi, ale to już temat na osobną dyskusję ;).
 
 Aby dane w formacie XML uważano za poprawne muszą one mieć pewną strukturę, proszę spójrz na przykład poniżej, który pokazuje poprawne dane w formacie XML:
 
